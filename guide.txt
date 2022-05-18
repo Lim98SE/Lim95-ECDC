@@ -1,0 +1,7 @@
+How to use the ECDC:
+
+Type in you text into the top field and click "ENCODE"
+
+Put encoded text into the bottom fiend and click "DECODE"
+
+It's that simple.
